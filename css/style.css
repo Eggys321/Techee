@@ -1,0 +1,43 @@
+body{
+    background-color: violet;
+    background-image: url(../image/login2.png);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+
+p{
+    color: peru;
+    font-size: 20;
+    border: 2px solid yellow;
+    outline: 50px olive dotted;
+    margin: 10%;
+    border: 30px solid yellow;
+    padding: 5%;
+    background-color: white;
+}
+
+h1{
+    background-color: tomato;
+    color: olive;
+}
+
+.one{
+    background-color: orange;
+    color: palegoldenrod;
+}
+
+#tall{
+    background-color: navy;
+    color: saddlebrown;
+}
+
+.two{
+    background-color: red;
+    color: snow;
+}
+
+.three{
+    background-color: olivedrab;
+    color: skyblue;
+}

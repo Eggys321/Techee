@@ -1,0 +1,55 @@
+/* .one,.two.three{
+    width: 40%;
+    height: 1000px;
+} */
+
+.one{
+    background-color: pink;
+    width: 400px;
+    height: 1000px;
+    
+}
+
+.two{
+    background-color: red;
+    width: 400px;
+    height: 1000px;
+    
+}
+
+.three{
+    background-color: blue;
+    width: 400px;
+    height: 1000px;
+    
+}
+
+.flex{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+}
+nav{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+li{
+    list-style: none;
+    margin-left: 100px;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.l1{
+    order: 2;
+}
+.l2{
+    order: 1;
+}

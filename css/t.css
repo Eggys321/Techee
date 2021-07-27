@@ -1,0 +1,194 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+nav {
+  background-color: #ffffff;
+  /* border: solid black; */
+  height: 70px;
+}
+
+.navbar-brand img {
+  width: 40px;
+  height: 50px;
+}
+
+.container_1 {
+  position: relative;
+  left: 170px;
+  bottom: 60px;
+}
+
+a {
+  text-decoration: none;
+}
+.secc {
+  position: relative;
+  bottom: 70px;
+  right: 80px;
+}
+
+.secc li {
+  list-style: none;
+}
+li {
+  display: inline;
+  padding-left: 50px;
+}
+
+.section_1 {
+  background-image: url(/image/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.section_1a {
+  display: flex;
+}
+
+.section_1b {
+  color: #ffffff;
+  position: relative;
+  left: 130px;
+  padding-top: 60px;
+}
+
+.section_1c {
+  color: #ffffff;
+  position: relative;
+  top: 300px;
+  right: 288px;
+}
+
+.section_1d {
+  color: #ffffff;
+  position: relative;
+  top: 330px;
+  right: 100px;
+}
+
+.section_1e {
+  background-color: #ffffff;
+  margin-top: 60px;
+  width: 500px;
+  height: 400px;
+  padding: 20px 0 0 20px;
+}
+
+.sec {
+  display: flex;
+  position: relative;
+  right: 130px;
+}
+
+form input {
+  width: 230px;
+  height: 60px;
+}
+
+input[type='email'] {
+  width: 470px;
+  margin-top: 20px;
+}
+
+input[type='tel'] {
+  width: 470px;
+  margin-top: 20px;
+}
+
+input[type='button'] {
+  width: 470px;
+  margin-top: 20px;
+  background-color: #007bff;
+  color: #d6ffff;
+}
+
+/* End of section_1 */
+
+.section_2 {
+  padding-top: 50px;
+  background-color: #f9fafa;
+}
+
+.para {
+  text-align: center;
+}
+
+.col-6 img {
+  width: 100px;
+  border-radius: 100px;
+  margin-left: 200px;
+}
+
+.col-77 {
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 200px;
+}
+
+.rilwans img {
+  width: 100px;
+  border-radius: 100px;
+  margin-left: 200px;
+}
+
+.paraaa {
+  width: 500px;
+}
+.rilwans {
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+/* End of section_2 */
+
+.section_3 {
+  margin-left: 30px;
+}
+
+/* section 4 starts */
+
+.section_4 {
+  background-color: #f9fafa;
+}
+
+/* section_5 starts here */
+
+.sec_5a{
+    text-align: center;
+    width: 600px;
+    margin-left: 400px;
+}
+
+.sec_5b{
+    display: flex;
+}
+.sec_5 img{
+    position: relative;
+    left: 160px;
+}
+.sec_5b{
+    margin-left: 100px;
+    padding-top: 50px;
+    
+}
+
+.sec_5c{
+    padding-right: 30px;
+}
+.sec_5b button{
+    background-color: #004A99;
+    color: whitesmoke;
+    width: 220px;
+    height: 50px;
+    border-radius: 8px;
+    box-shadow: none;
+}
+
+/* end of section 5 */
+
+/* section 6 starts */
+
+

@@ -1,0 +1,79 @@
+body {
+  background-color: dimgray;
+}
+.slide1 {
+  /* border: black solid; */
+  background-color: #121230;
+  color: white;
+  width: 450px;
+  padding-left: 30px;
+  padding-top: 5px;
+  height: 300px;
+  float: left;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+.purple {
+  color: purple;
+}
+
+h4 {
+  font-size: larger;
+}
+img {
+  width: 450px;
+  height: 305px;
+  margin-top: 150px;
+}
+
+.img {
+  float: left;
+}
+
+.coy1 {
+  margin-right: 45px;
+}
+
+.coy{
+    margin-right: 200px;
+}
+
+.span2{
+    position: relative;
+    left: 150px;
+    bottom: 34px;
+}
+
+
+.span3{
+    position: relative;
+    left: 290px;
+    bottom: 70px;
+}
+.mainspan{
+    margin-top: 50px;
+}
+
+.font{
+    font-size: x-small;
+    color: grey;
+}
+
+.font2{
+    font-size: x-small;
+    color: grey;
+}
+
+.font3{
+    font-size: x-small;
+    color: grey;
+}
+
+/* .spin{
+    font-size: x-large;
+}
+
+.spin2{
+    font-size: x-large;
+} */

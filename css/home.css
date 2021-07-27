@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    padding-left: 3px;
+}
+
+nav{
+    margin-left: 1170px;
+}
+
+.blue{
+    color: blue;
+    font-size: 80px;
+}
+
+.red{
+    color: red;
+    font-size: 80px;
+}
+
+.yellow{
+    color: yellow;
+    font-size: 80px;
+}
+
+.green{
+    color: green;
+    font-size: 80px;
+}
+
+h1{
+    margin-left: 40%;
+    margin-top: 100px;
+}
+
+.input{
+    margin-left: 42%;
+    padding-left: 10px;
+
+}
+

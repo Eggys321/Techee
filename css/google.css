@@ -1,0 +1,105 @@
+.blue {
+  color: blue;
+  font-size: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.red {
+  color: red;
+  font-size: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.yellow {
+  color: yellow;
+  font-size: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.green {
+  color: green;
+  font-size: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form {
+  margin-left: 450px;
+}
+
+.input {
+  border-radius: 30px;
+  outline: none;
+  padding-left: 80px;
+
+  width: 400px;
+  height: 40px;
+}
+
+.button {
+  margin-left: 550px;
+  color: black;
+}
+
+.google {
+  padding-left: 40%;
+  margin-top: 120px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+}
+
+nav {
+  padding-left: 1100px;
+  margin-left: 15px;
+}
+
+h4 {
+  padding-left: 470px;
+}
+
+.img {
+  position: fixed;
+  width: 20px;
+  border-radius: 100px;
+  margin-left: 10px;
+}
+
+.hover: hover {
+  background-color: chartreuse;
+  color: brown;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+.abt {
+  position: fixed;
+  top: 0;
+  padding: 5px;
+  border: brown solid;
+  background-color: cadetblue;
+}
+
+.test {
+  position: sticky;
+  top: 10;
+}
+
+.seclast{
+  float: left;
+  width: 50px;
+}
+
+.sec2{
+  float: right;
+  width: 50px;
+  background-color: cadetblue;
+  border: pink solid;
+}

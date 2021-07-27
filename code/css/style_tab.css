@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+  /*  section 1 css or table starts here */
+
+  .sec1_img {
+    margin-top: 3em;
+    margin-left: 10em;
+    width: 70%;
+  }
+
+  .sec1_div {
+    margin: 0 0em;
+  }
+
+  .sec1_div > h1 {
+    /* margin: 0 20em; */
+    font-size: 2em;
+    width: 80%;
+    margin: 0 0 0 82px;
+  }
+
+  .sec1_div > p {
+    font-size: 1em;
+    width: 70%;
+    margin: 2em 0 0 120px;
+  }
+}
